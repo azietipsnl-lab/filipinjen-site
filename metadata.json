@@ -1,0 +1,8 @@
+{
+  "name": "Filipijnen.nl - Philippines Tour Guide",
+  "description": "A comprehensive tour guide and booking platform for the Philippines, featuring packages, travel tips, and seamless booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
